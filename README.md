@@ -4,6 +4,7 @@ This project is a Bash script that automatically checks key system health indica
 It uses color-coded output to make results easy to understand at a glance.
 
 📂 Features
+
 ✅ CPU Load Check — Monitors system load and alerts when thresholds are exceeded.
 
 ✅ Memory Usage Check — Displays memory usage percentage with safety levels.
@@ -15,9 +16,6 @@ It uses color-coded output to make results easy to understand at a glance.
 ✅ Colorful Output — Results are color-coded (green, yellow, red) for better readability.
 
 ⚙️ How to Run
-bash
-Copy
-Edit
 # Give permission to execute the script
 chmod +x Automated_System_Health_Check.sh
 
@@ -26,9 +24,6 @@ chmod +x Automated_System_Health_Check.sh
 ✅ Make sure you are root or use sudo to see all services and ports properly.
 
 📸 Example Output
-bash
-Copy
-Edit
  Checking CPU ... 
 Your CPU Load is 0.00, 0.03, 0.00
 Your CPU is safe
